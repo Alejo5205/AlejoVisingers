@@ -13,7 +13,7 @@ His story? We don't know, but maybe one day we'll hear it all.
 - Weight: 77 kg
 - Age: 16
 
-## information
+## Japanese(CV)
 VoiceBank
 - Type: UTAU
 - Languages: Japanese
