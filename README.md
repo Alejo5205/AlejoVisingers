@@ -1,33 +1,22 @@
-# Singer Template
+# Alejo
 [English](README.md) | [Русский](README.ru.md)
 
 ![Avatar](/image.png)
 
-Good example: [Awata Weak](https://github.com/hhskt/Awata_Weak)
+Alejo(アレホ) is a hero who fights against evil, but he also knows how to sing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+His story? We don't know, but maybe one day we'll hear it all.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: 170 cm
+- Weight: 77 kg
+- Age: 16
 
-## Groups
-- [testgroup](https://github.com/ViSingers/group-template)
-
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: Russian, Japanese
-
-## Second test bank
-Test description 2
+## information
+VoiceBank
 - Type: UTAU
-- Languages: English
+- Languages: Japanese
 
 ## Videos
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://i.ytimg.com/vi/TfMiyqJBQeA/hqdefault.jpg)](https://youtu.be/TfMiyqJBQeA)
