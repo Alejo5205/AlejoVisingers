@@ -13,7 +13,7 @@ His story? We don't know, but maybe one day we'll hear it all.
 - Weight: 77 kg
 - Age: 16
 
-## Alejo voicebank CV v2
+## Alejo voicebank CV
 VoiceBank
 - Type: UTAU
 - Languages: Japanese
