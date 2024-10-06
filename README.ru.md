@@ -1,4 +1,4 @@
-# Singer Template
+# Alejo
 [English](README.md) | [Русский](README.ru.md)
 
 ![Avatar](/image.png)
