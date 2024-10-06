@@ -13,7 +13,7 @@ Alejo(アレホ)герой, который борется со злом, но о
 - Вес: 77 кг
 - Возраст: 16
 
-## Alejo voicebank CV v2
+## Alejo voicebank CV
 VoiceBank
 - Тип: UTAU
 - Языки: японский
