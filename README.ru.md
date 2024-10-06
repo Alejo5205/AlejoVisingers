@@ -3,32 +3,20 @@
 
 ![Avatar](/image.png)
 
-Хороший пример: [Awata Weak](https://github.com/hhskt/Awata_Weak)
+Alejo(アレホ)герой, который борется со злом, но он также умеет петь.
 
-Какое-то описание на русском
+Его история? Мы не знаем, но, возможно, однажды мы услышим ее всю.
 
 ## Основная информация
-- Пол: тест
-- Рост: 111м
-- Вес: 222г
-- Возраст: 33
+- Пол: мужской
+- Рост: 170 см
+- Вес: 77 кг
+- Возраст: 16
 
-## Группы
-- testgroup1
-- testgroup2
-
-## First test bank
-Описание 1
-- Тип: Diffsinger
-- Языки: Русский, Японский
-
-## Second test bank
-Описание 2
+## информация
+VoiceBank
 - Тип: UTAU
-- Языки: Английский
+- Языки: японский
 
 ## Видео
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://i.ytimg.com/vi/TfMiyqJBQeA/hqdefault.jpg)](https://youtu.be/TfMiyqJBQeA)
